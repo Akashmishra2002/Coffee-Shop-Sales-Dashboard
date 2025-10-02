@@ -1,6 +1,6 @@
 ☕ **Coffee Shop Sales Dashboard**
 
-📈 Analyzing $698K coffee shop sales to uncover trends, top products, and customer behavior.
+📈 Analyzing coffee shop sales to uncover trends, top products, and customer behavior.
 
 
 
